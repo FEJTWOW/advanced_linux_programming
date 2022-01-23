@@ -1,6 +1,6 @@
 # Advanced linux programming
 
-These programms were created just for academic purpouse. All of them cover topic from the book [The Linux Programming Interface](https://man7.org/tlpi/).
+These programms were created just for academic purpouse. All of them cover topics from the book [The Linux Programming Interface](https://man7.org/tlpi/).
 
 ## Content
 
