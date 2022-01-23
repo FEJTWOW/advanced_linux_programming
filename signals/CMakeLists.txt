@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
-project(zajecia8 C)
+project(signals C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(zajecia8 main.c)
+add_executable(signals main.c)
