@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
-project(multipleksacja C)
+project(multiplexing C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(multipleksacja main.c)
+add_executable(multiplexing main.c)
