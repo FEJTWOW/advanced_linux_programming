@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/pipes_fifos.dir/main.c.o  -o pipes_fifos 
