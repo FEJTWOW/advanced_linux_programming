@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
-project(zegary_cw C)
+project(clocks_ex C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(zegary_cw main.c)
+add_executable(clocks_ex main.c)

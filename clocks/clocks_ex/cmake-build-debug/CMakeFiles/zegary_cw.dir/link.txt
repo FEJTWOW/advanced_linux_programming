@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/zegary_cw.dir/main.c.o  -o zegary_cw 

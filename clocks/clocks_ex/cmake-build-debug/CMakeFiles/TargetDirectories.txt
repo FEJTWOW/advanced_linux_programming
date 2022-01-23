@@ -1,3 +1,0 @@
-/home/kamil/CLionProjects/pwsl/zajecia7/zegary_cw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/kamil/CLionProjects/pwsl/zajecia7/zegary_cw/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kamil/CLionProjects/pwsl/zajecia7/zegary_cw/cmake-build-debug/CMakeFiles/zegary_cw.dir
