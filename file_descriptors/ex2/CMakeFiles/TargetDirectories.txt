@@ -1,3 +1,0 @@
-/home/kamil/CLionProjects/pwsl/zajecia2/cw2/CMakeFiles/rebuild_cache.dir
-/home/kamil/CLionProjects/pwsl/zajecia2/cw2/CMakeFiles/cw2.dir
-/home/kamil/CLionProjects/pwsl/zajecia2/cw2/CMakeFiles/edit_cache.dir
