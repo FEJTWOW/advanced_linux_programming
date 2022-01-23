@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/sigchild_zad.dir/main.c.o  -o sigchild_zad 

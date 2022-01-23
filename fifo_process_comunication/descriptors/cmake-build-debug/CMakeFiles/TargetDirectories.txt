@@ -1,0 +1,3 @@
+/home/kamil/CLionProjects/pwsl/zajecia5/deskryptory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia5/deskryptory/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia5/deskryptory/cmake-build-debug/CMakeFiles/deskryptory.dir

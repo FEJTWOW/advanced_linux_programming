@@ -1,0 +1,3 @@
+/home/kamil/CLionProjects/pwsl/zajecia5/zdobywanie_koncesji/CMakeFiles/rebuild_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia5/zdobywanie_koncesji/CMakeFiles/edit_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia5/zdobywanie_koncesji/CMakeFiles/zdobywanie_koncesji.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/aktywna_petla.dir/main.c.o  -o aktywna_petla 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/szokety.dir/main.c.o CMakeFiles/szokety.dir/CircularBuffer.c.o  -o szokety 

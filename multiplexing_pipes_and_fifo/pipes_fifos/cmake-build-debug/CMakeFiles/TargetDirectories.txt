@@ -1,0 +1,3 @@
+/home/kamil/CLionProjects/pwsl/zajecia6/pipes_fifos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia6/pipes_fifos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia6/pipes_fifos/cmake-build-debug/CMakeFiles/pipes_fifos.dir

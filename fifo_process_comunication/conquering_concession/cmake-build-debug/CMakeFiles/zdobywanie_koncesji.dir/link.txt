@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/zdobywanie_koncesji.dir/main.c.o  -o zdobywanie_koncesji 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/zdobywanie_koncesji.dir/urzad-regulacji.c.o CMakeFiles/zdobywanie_koncesji.dir/poszukiwacz.c.o  -o zdobywanie_koncesji 

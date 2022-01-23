@@ -1,0 +1,3 @@
+/home/kamil/CLionProjects/pwsl/zajecia8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamil/CLionProjects/pwsl/zajecia8/cmake-build-debug/CMakeFiles/zajecia8.dir

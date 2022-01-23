@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/pwsl/zajecia4/cw2/main.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+string.h
+-
+errno.h
+-
+limits.h
+-
+

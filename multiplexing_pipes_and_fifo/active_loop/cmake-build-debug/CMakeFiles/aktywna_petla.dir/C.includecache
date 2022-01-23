@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/pwsl/zajecia6/aktywna_petla/main.c
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+limits.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+float.h
+-
+sys/ioctl.h
+-
+time.h
+-
+
