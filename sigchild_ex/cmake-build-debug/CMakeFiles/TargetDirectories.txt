@@ -1,3 +1,0 @@
-/home/kamil/CLionProjects/pwsl/sigchild_zad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/kamil/CLionProjects/pwsl/sigchild_zad/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/kamil/CLionProjects/pwsl/sigchild_zad/cmake-build-debug/CMakeFiles/sigchild_zad.dir
