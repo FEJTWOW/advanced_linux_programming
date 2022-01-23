@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
-project(cw4 C)
+project(ex4 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(cw4 main.c)
+add_executable(ex4 main.c)
